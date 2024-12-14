@@ -20,3 +20,8 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
+
+## Link streamlit cloud
+```
+https://dashboardpy-uazhljewstxbhmarpqnbm3.streamlit.app/
+```
