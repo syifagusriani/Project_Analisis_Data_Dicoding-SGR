@@ -5,8 +5,8 @@ import streamlit as st
 
 sns.set(style='white')
 
-bs_day_df = pd.read_csv('day_clean_df.csv')
-bs_hour_df = pd.read_csv('hour_clean_df.csv')
+bs_day_df = pd.read_csv('dashboard/day_clean_df.csv')
+bs_hour_df = pd.read_csv('dashboard/hour_clean_df.csv')
 
 # =============================================
 # KUMPULAN HELPER
