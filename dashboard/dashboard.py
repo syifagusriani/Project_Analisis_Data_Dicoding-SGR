@@ -201,7 +201,7 @@ st.pyplot(fig)
 # Bagian 4
 st.subheader("Rata-rata Penyewaan Sepeda Berdasarkan Musim")
 fig, ax3 = plt.subplots(figsize=(20, 8))
-sns.barplot(data=season_total_df, x='season', y='cnt', palette='viridis')
+sns.barplot(data=season_total_df, x='season', y='cnt', color='red')
 
 ax3.set_xlabel('Musim (1: Spring, 2: Summer, 3: Fall, 4: Winter)', fontsize=18)
 ax3.set_ylabel('Rata-rata Jumlah Penyewaan', fontsize=18)
