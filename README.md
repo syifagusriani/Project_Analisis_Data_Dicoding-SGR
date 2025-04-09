@@ -25,3 +25,7 @@ streamlit run dashboard.py
 ```
 https://dashboardpy-uazhljewstxbhmarpqnbm3.streamlit.app/
 ```
+## (Update) Basic Dashboard using Tableau
+```
+https://public.tableau.com/app/profile/syifa.gusriani.rohman/viz/BikeSharingDashboard_17441308093570/Dashboard1
+```
