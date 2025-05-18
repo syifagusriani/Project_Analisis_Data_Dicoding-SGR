@@ -1,5 +1,4 @@
-# Bike Sharing Dashboard ✨
-
+# Bike Sharing Data Analysis ✨
 This project is one of the assignments from the Dicoding training course titled “Belajar Analisis Data dengan Python,”. Although this is a simulation project, the analysis approach is designed to resemble a real business case study, aimed at developing skills in data exploration and data-driven decision making.
 
 ## Dataset
@@ -7,6 +6,12 @@ This project is one of the assignments from the Dicoding training course titled 
 - Total Data : 
   - bs_day    : 731 rows
   - bs_hour   : 17379 rows
+
+## Tools
+- Python
+- Jupyter Notebook
+- Streamlit (Visualization)
+- Tableau (Visualization)
 
 ## Setup Environment - Anaconda
 ```
