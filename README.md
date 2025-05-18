@@ -1,6 +1,12 @@
 # Bike Sharing Dashboard ✨
 
-This project is one of the assignments from the Dicoding training course titled “Belajar Analisis Data dengan Python,” which uses public dataset from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset. Although this is a simulation project, the analysis approach is designed to resemble a real business case study, aimed at developing skills in data exploration and data-driven decision making.
+This project is one of the assignments from the Dicoding training course titled “Belajar Analisis Data dengan Python,”. Although this is a simulation project, the analysis approach is designed to resemble a real business case study, aimed at developing skills in data exploration and data-driven decision making.
+
+## Dataset
+- Source : Bike Sharing Dataset (https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
+- Jumlah Data : 
+  - bs_day    : 731 baris
+  - bs_hour   : 17379 baris
 
 ## Setup Environment - Anaconda
 ```
