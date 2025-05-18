@@ -4,9 +4,9 @@ This project is one of the assignments from the Dicoding training course titled 
 
 ## Dataset
 - Source : Bike Sharing Dataset (https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
-- Jumlah Data : 
-  - bs_day    : 731 baris
-  - bs_hour   : 17379 baris
+- JTotal Data : 
+  - bs_day    : 731 rows
+  - bs_hour   : 17379 rows
 
 ## Setup Environment - Anaconda
 ```
